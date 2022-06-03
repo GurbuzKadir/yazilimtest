@@ -1,4 +1,4 @@
-<h3 align="center">Yazılım Gereksinim Analizi ve Testi</h3>
+<h4 align="center">Yazılım Gereksinim Analizi ve Testi</h4>
 <h1 align="center">Merhaba 👋, Ben Kadir Gürbüz</h1>
 <h3 align="center">Yazılım mühendisliği - Yazılım test otomasyonu projesi</h3>
 
