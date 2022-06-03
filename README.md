@@ -16,7 +16,8 @@
 
 ### Projeler hakkında  
 Çiçek Sepeti Test projesinde siteye girip orada olan favori ürünleri, ekleme durumlarının başarılı yada başarısız olma durumlarını, satın alma aksiyonunun testini ve sepet iptalinin kontrolünü sağlayıp favorilerden de çıkarma gibi işlemlerin kontrolünü ile birlikte giriş yapma durumu kontrolü sağlanıyor. Eğer girebiliyorsa testten başarılı bir şekilde geçerken giremiyorsa da sistem bunun kontrolünü sağlamaktadır.
-<a href="https://github.com/GurbuzKadir/yazilimtest/tree/main/Yaz%C4%B1l%C4%B1m%20Kalite%20G%C3%BCvencesi%20ve%20Test/CicekSepeti_Test/Test%20Cases" target="_blank" rel="noreferrer">Test Cases</a>
+
+<p align="left"> <a href="https://github.com/GurbuzKadir/yazilimtest/tree/main/Yaz%C4%B1l%C4%B1m%20Kalite%20G%C3%BCvencesi%20ve%20Test/CicekSepeti_Test/Test%20Cases" target="_blank" rel="noreferrer">Test Cases</a>
 
 XUnit Projesinde ise bir post ile ilgili buna ürünler üzerinde yapılan testler de dahil test gerçekleştirmekte ve ekleme, silme, güncelleme gibi tüm işlemlerin testini yapmaktadır. Ayrıca post method ve Get method olarak farklı türlerde testleri de gerçekleştirip sağlama yaparken test doğruluğunu arttırma hedeflenmiştir.
 
