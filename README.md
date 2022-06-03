@@ -12,6 +12,18 @@
 
 - 📫 Danışman **Prof. Dr. Resul Daş**
 
+
+
+### Projeler hakkında  
+Çiçek Sepeti Test projesinde siteye girip orada olan favori ürünleri, ekleme durumlarının başarılı yada başarısız olma durumlarını, satın alma aksiyonunun testini ve sepet iptalinin kontrolünü sağlayıp favorilerden de çıkarma gibi işlemlerin kontrolünü ile birlikte giriş yapma durumu kontrolü sağlanıyor. Eğer girebiliyorsa testten başarılı bir şekilde geçerken giremiyorsa da sistem bunun kontrolünü sağlamaktadır.
+
+XUnit Projesinde ise bir post ile ilgili buna ürünler üzerinde yapılan testler de dahil test gerçekleştirmekte ve ekleme, silme, güncelleme gibi tüm işlemlerin testini yapmaktadır. Ayrıca post method ve Get method olarak farklı türlerde testleri de gerçekleştirip sağlama yaparken test doğruluğunu arttırma hedeflenmiştir.
+
+Chromedriver için
+https://chromedriver.chromium.org/downloads  
+  
+
+
 <h3 align="left">Bağlantılar:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kadir-gürbüz-7291841a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadir-gurbuz-7291841a1" height="30" width="40" /></a>
