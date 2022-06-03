@@ -1,0 +1,12 @@
+D:\UnitTestProje\XUnitTest\UnitTest.APP\bin\Debug\net5.0\UnitTest.APP.deps.json
+D:\UnitTestProje\XUnitTest\UnitTest.APP\bin\Debug\net5.0\UnitTest.APP.dll
+D:\UnitTestProje\XUnitTest\UnitTest.APP\bin\Debug\net5.0\ref\UnitTest.APP.dll
+D:\UnitTestProje\XUnitTest\UnitTest.APP\bin\Debug\net5.0\UnitTest.APP.pdb
+D:\UnitTestProje\XUnitTest\UnitTest.APP\obj\Debug\net5.0\UnitTest.APP.csproj.AssemblyReference.cache
+D:\UnitTestProje\XUnitTest\UnitTest.APP\obj\Debug\net5.0\UnitTest.APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnitTestProje\XUnitTest\UnitTest.APP\obj\Debug\net5.0\UnitTest.APP.AssemblyInfoInputs.cache
+D:\UnitTestProje\XUnitTest\UnitTest.APP\obj\Debug\net5.0\UnitTest.APP.AssemblyInfo.cs
+D:\UnitTestProje\XUnitTest\UnitTest.APP\obj\Debug\net5.0\UnitTest.APP.csproj.CoreCompileInputs.cache
+D:\UnitTestProje\XUnitTest\UnitTest.APP\obj\Debug\net5.0\UnitTest.APP.dll
+D:\UnitTestProje\XUnitTest\UnitTest.APP\obj\Debug\net5.0\ref\UnitTest.APP.dll
+D:\UnitTestProje\XUnitTest\UnitTest.APP\obj\Debug\net5.0\UnitTest.APP.pdb
