@@ -12,7 +12,7 @@
 
 - 📫 Danışman **Prof. Dr. Resul Daş**
 
-<h3 align="left">Bağlantı kurun:</h3>
+<h3 align="left">Bağlantılar:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kadir-gürbüz-7291841a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadir-gurbuz-7291841a1" height="30" width="40" /></a>
 </p>
