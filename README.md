@@ -8,7 +8,7 @@
 
 - 🔭 Test Otomasyonu - C# **XUnit TestProject**
 
-- 📄 Proje hakkında - C# **Asp.Net Core 5.0, C#, MSSQL**
+- 📄 Proje hakkında - C# **Asp.Net Core 5.0, C#, MSSQL, XUnit, MVC, Entity Framework**
 
 - 📫 Danışman **Prof. Dr. Resul Daş**
 
